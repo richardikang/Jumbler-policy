@@ -5,7 +5,7 @@
 
 > Draft for publication. Replace every bracketed placeholder before publishing.
 
-This Privacy Policy explains how **[Legal entity name]** ("Jumbler," "we," "us," or "our") collects, uses, shares, and protects information when you use the Jumbler mobile game and related services (the "Service").
+This Privacy Policy explains how **Univation Games** ("Jumbler," "we," "us," or "our") collects, uses, shares, and protects information when you use the Jumbler mobile game and related services (the "Service").
 
 For privacy questions or data requests, contact **[privacy or support email]**. Our public privacy-policy URL is **[public privacy-policy URL]**.
 
@@ -112,8 +112,7 @@ We may update this policy when the Service, our data practices, or legal require
 
 ## Contact
 
-**[Legal entity name]**  
-**[Postal address, if required]**  
-**[privacy or support email]**  
-**[public privacy-policy URL]**
+**Univation Games**  
+**richkg22@gmail.com**  
+**https://richardikang.github.io/Jumbler-policy/**
 
